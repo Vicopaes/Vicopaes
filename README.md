@@ -1,6 +1,6 @@
 ### Oie, eu sou o VictorPaes👋
-Amante de tecnologia e desenvolvimento pessoal!
-Sou Motion Designer, estudando para Front-End.
+Amante de tecnologia e desenvolvimento pessoal!<br>
+Sou Motion Designer, estudando para Front-End.<br>
 Gosto de unir criatividade com estratégia para transformar ideias em soluções reais.
 
 #### Tecnologias:
