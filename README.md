@@ -1,6 +1,6 @@
 ## Oie, eu sou o VictorPaes 👋
-Motion Designer e amante de tecnologia e desenvolvimento pessoal!  
-Gosto de unir criatividade com estratégia para transformar ideias em soluções reais.
+### Motion Designer e amante de tecnologia e desenvolvimento pessoal!  
+### Gosto de unir criatividade com estratégia para transformar ideias em soluções reais.
 
 #### Tecnologias:
 <p align= "left">
